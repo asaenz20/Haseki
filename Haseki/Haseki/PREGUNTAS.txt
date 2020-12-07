@@ -1,0 +1,4 @@
+Preguntar si la consulta de Salida esta correcto 
+Existen 4 habitaciones de cada tipo ya creadas 
+El administrador por defecto es de id 1 y clave 1 
+el primer cliente tiene id y clave 123

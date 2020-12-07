@@ -1,0 +1,22 @@
+SE MANEJARAN 10 PRODUCTOS EN TOTAL PREDETERMINADOS 
+
+TIPO      DESCRIPCION            ID             PRECIO
+BEBIDA    COCA-COLA              1           $3000 COP
+BEBIDA       7UP                 2           $4500 COP 
+SNACK       JUMBO                3           $6500 COP
+SNACK       TODITO               4           $5500 COP
+BEBIDA   AGUA CON GAS            5           $7000 COP
+SNACK      DORITOS               6           $5300 COP 
+SNACK      NACHOS                7           $6000 COP 
+SEXUAL  LUBRICANTE STAR          8           $15000 COP 
+SEXUAL  CONDONES TODAY           9           $11000 COP 
+ACEITE  EASTERN AERO             10          $200000 COP
+
+PRECIO POR TIPO                                   USO DE PARQUEADERO
+                                                  PRECIO $30000 COP
+TIPO     DESCRIPCION     PRECIO            
+1           PLATA      $95000 COP                CANTIDAD POR PERSONA
+2           ORO        $130000 COP               PRECIO $20000 COP
+3           DIAMANTE   $250000 COP 
+4           DLRR       $450000 COP
+
